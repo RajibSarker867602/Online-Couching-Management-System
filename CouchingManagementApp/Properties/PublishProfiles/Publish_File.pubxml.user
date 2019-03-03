@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\rajib\Desktop\Couching Manmagement</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>04/26/2018 12:51:27</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>04/26/2018 12:51:53</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.bootstrap.dll">
+      <publishTime>04/26/2018 12:51:56</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>04/26/2018 12:51:56</publishTime>
+    </File>
+    <File Include="bin/CouchingManagementApp.dll">
+      <publishTime>01/18/2019 12:08:07</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.CrystalReports.Design.dll">
+      <publishTime>09/21/2016 04:23:52</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.CrystalReports.Engine.dll">
+      <publishTime>09/21/2016 04:23:52</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.ClientDoc.dll">
+      <publishTime>09/21/2016 04:23:54</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.CommLayer.dll">
+      <publishTime>09/21/2016 04:23:54</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.CommonControls.dll">
+      <publishTime>09/21/2016 04:23:54</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.CommonObjectModel.dll">
+      <publishTime>09/21/2016 04:23:54</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.Controllers.dll">
+      <publishTime>09/21/2016 04:23:54</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.CubeDefModel.dll">
+      <publishTime>09/21/2016 04:23:54</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.DataDefModel.dll">
+      <publishTime>09/21/2016 04:23:54</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.DataSetConversion.dll">
+      <publishTime>09/21/2016 04:23:54</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.ObjectFactory.dll">
+      <publishTime>09/21/2016 04:23:54</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.Prompting.dll">
+      <publishTime>09/21/2016 04:23:54</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.ReportDefModel.dll">
+      <publishTime>09/21/2016 04:23:54</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.XmlSerialize.dll">
+      <publishTime>09/21/2016 04:23:54</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportSource.dll">
+      <publishTime>09/21/2016 04:23:54</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.Shared.dll">
+      <publishTime>09/21/2016 04:23:54</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.Web.dll">
+      <publishTime>09/21/2016 04:23:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>04/26/2018 12:52:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Web.Optimization.WebForms.dll">
+      <publishTime>04/26/2018 12:52:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.MSAjax.dll">
+      <publishTime>04/26/2018 12:51:57</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.WebForms.dll">
+      <publishTime>04/26/2018 12:51:59</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>04/26/2018 12:51:36</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/26/2018 12:51:54</publishTime>
+    </File>
+    <File Include="bin/stdole.dll">
+      <publishTime>07/07/2015 00:51:38</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>04/26/2018 12:51:56</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>04/26/2018 12:51:53</publishTime>
+    </File>
+    <File Include="Bundle.config">
+      <publishTime>04/26/2018 12:51:27</publishTime>
+    </File>
+    <File Include="Contact.aspx">
+      <publishTime>04/26/2018 12:51:27</publishTime>
+    </File>
+    <File Include="css/css/style.css">
+      <publishTime>05/02/2018 15:22:51</publishTime>
+    </File>
+    <File Include="css/js/index.js">
+      <publishTime>05/02/2018 15:22:51</publishTime>
+    </File>
+    <File Include="css/Registration Form/css/style.css">
+      <publishTime>05/02/2018 15:42:11</publishTime>
+    </File>
+    <File Include="css/Registration Form/js2/index.js">
+      <publishTime>05/02/2018 15:42:11</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>01/17/2019 16:58:50</publishTime>
+    </File>
+    <File Include="DataSet1.xsc">
+      <publishTime>05/05/2018 08:51:56</publishTime>
+    </File>
+    <File Include="DataSet1.xss">
+      <publishTime>05/05/2018 08:51:56</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/26/2018 12:51:27</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>04/26/2018 12:51:27</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>04/26/2018 12:51:52</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>04/26/2018 12:51:52</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>04/26/2018 12:51:52</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>04/26/2018 12:51:52</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/26/2018 12:51:27</publishTime>
+    </File>
+    <File Include="images/banner9.jpg">
+      <publishTime>04/26/2018 20:45:37</publishTime>
+    </File>
+    <File Include="images/DSC_0031.JPG">
+      <publishTime>05/05/2018 07:33:19</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/26/2018 12:52:01</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>04/26/2018 12:51:27</publishTime>
+    </File>
+    <File Include="Site.Mobile.Master">
+      <publishTime>04/26/2018 12:52:00</publishTime>
+    </File>
+    <File Include="styles.css">
+      <publishTime>04/27/2018 13:38:01</publishTime>
+    </File>
+    <File Include="UI/AboutPage.aspx">
+      <publishTime>12/02/2018 15:51:43</publishTime>
+    </File>
+    <File Include="UI/AddCoursePageUI.aspx">
+      <publishTime>07/09/2018 15:13:19</publishTime>
+    </File>
+    <File Include="UI/AddSutdentPageUI.aspx">
+      <publishTime>01/17/2019 16:10:19</publishTime>
+    </File>
+    <File Include="UI/AddTeacherPageUI.aspx">
+      <publishTime>07/09/2018 15:14:56</publishTime>
+    </File>
+    <File Include="UI/AdminastratorPageUI.aspx">
+      <publishTime>07/09/2018 15:13:20</publishTime>
+    </File>
+    <File Include="UI/CoursePageUI.aspx">
+      <publishTime>07/09/2018 15:16:31</publishTime>
+    </File>
+    <File Include="UI/FeesPageUI.aspx">
+      <publishTime>07/09/2018 15:13:19</publishTime>
+    </File>
+    <File Include="UI/HomePage.aspx">
+      <publishTime>07/09/2018 15:13:18</publishTime>
+    </File>
+    <File Include="UI/LoginPageUI.aspx">
+      <publishTime>07/03/2018 17:29:45</publishTime>
+    </File>
+    <File Include="UI/RegistrationPageUI.aspx">
+      <publishTime>05/02/2018 23:00:56</publishTime>
+    </File>
+    <File Include="UI/ReportView.aspx">
+      <publishTime>07/09/2018 15:13:18</publishTime>
+    </File>
+    <File Include="UI/SearchPageUI.aspx">
+      <publishTime>01/17/2019 16:58:51</publishTime>
+    </File>
+    <File Include="UI/StudentPageUI.aspx">
+      <publishTime>07/09/2018 15:16:06</publishTime>
+    </File>
+    <File Include="UI/TeacherPageUI.aspx">
+      <publishTime>07/09/2018 15:13:17</publishTime>
+    </File>
+    <File Include="ViewSwitcher.ascx">
+      <publishTime>04/26/2018 12:52:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/18/2019 12:08:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
