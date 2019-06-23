@@ -51,7 +51,7 @@ namespace CouchingManagementApp.UI
 
                     SmtpClient client = new SmtpClient("smtp.gmail.com", 587);
                     client.EnableSsl = true;
-                    client.Credentials = new System.Net.NetworkCredential("RajibSarker3202@gmail.com", "OPPO_A33f#");
+                    client.Credentials = new System.Net.NetworkCredential("RajibSarker3202@gmail.com", "Your_Password");
 
                     client.Send(message);
                     msgLabel.Text = "Thank You For Your Feedback.";
